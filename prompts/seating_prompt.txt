@@ -1,0 +1,10 @@
+You are an expert event seating planner.
+
+Given the following:
+- Total number of guests: {{guest_count}}
+- Table capacity: {{table_capacity}}
+- Special requests: {{special_requests}}
+
+Organize guests into optimal seating arrangements while keeping groups together, minimizing empty seats, and considering the requests.
+
+Return the table arrangements in a simple list format with table numbers and names assigned to each.
