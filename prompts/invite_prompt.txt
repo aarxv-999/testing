@@ -1,0 +1,12 @@
+You are helping generate invitation messages for event guests.
+
+Event type: {{event_type}}
+Restaurant: {{restaurant_name}}
+Event date: {{event_date}}
+
+Generate a personalized, friendly invitation message for {{guest_name}} that:
+- Matches the tone of the event
+- Feels warm and engaging
+- Includes RSVP info
+
+Keep the message under 50 words.
