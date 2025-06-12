@@ -1,0 +1,17 @@
+{
+  "standard": {
+    "table_capacity": 6,
+    "total_tables": 10,
+    "layout_notes": "Tables are round and evenly spaced with central walkway access."
+  },
+  "intimate": {
+    "table_capacity": 4,
+    "total_tables": 6,
+    "layout_notes": "Smaller setup for private or romantic events. Dim lighting preferred."
+  },
+  "banquet": {
+    "table_capacity": 8,
+    "total_tables": 12,
+    "layout_notes": "Banquet-style arrangement with rectangular tables for large gatherings."
+  }
+}
