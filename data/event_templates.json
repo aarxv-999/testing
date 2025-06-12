@@ -1,0 +1,20 @@
+{
+  "birthday": {
+    "description": "Celebrate a personal milestone with fun, food, and friends.",
+    "recommended_diet": "vegetarian",
+    "default_decor": "balloons, streamers, birthday banner",
+    "max_duration_hours": 3
+  },
+  "wedding": {
+    "description": "A formal celebration of love and union.",
+    "recommended_diet": "vegetarian",
+    "default_decor": "flowers, candles, white theme",
+    "max_duration_hours": 5
+  },
+  "corporate_dinner": {
+    "description": "An evening of networking and formal dining for business professionals.",
+    "recommended_diet": "mixed",
+    "default_decor": "minimalist, business-casual theme",
+    "max_duration_hours": 2
+  }
+}
